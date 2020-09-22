@@ -5,6 +5,8 @@ The Team Dashboard is a Node command line interface (CLI) tool, that takes in in
 <br></br>
 The program in initiated by Node through the command line allowing the user input answers to prompted questions. The result is dashboard interface viewable by web browser that will contain the summary information on each employee. The program allows for any number of employees to be entered and stored. The following information is presented for each employee. 
 
+![Team Profile Demo](assets/demoteam.gif)
+
 <br></br>
 ### SUMMARY EMPLOYEE INFORMATION
 * Employee Name
